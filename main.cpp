@@ -77,7 +77,7 @@ int main() {
         // Counts & properly groups the words on the scanned lines from the file
         countWords(words, textLinesFromFile);
 
-        // Displays the analysses words and its frequencies
+        // Displays the analyzed words and its frequencies
         displayResults(words);
     }
 
